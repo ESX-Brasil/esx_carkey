@@ -5,7 +5,7 @@ A chave reconhece qualquer veículo que você comprou.<br>
 Você também pode registrar outro carro que você dirige em sua chave.<br>
 Nota: A memória da chave é apagada quando você faz logout.<br>
 
-Itens
+Itens<br>
 -Chave inteligente
 
 # Instalação
