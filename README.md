@@ -1,9 +1,9 @@
 # esx_carkey
 
-Permite que você use uma "chave inteligente" para bloquear ou desbloquear as portas.
-A chave reconhece qualquer veículo que você comprou.
-Você também pode registrar outro carro que você dirige em sua chave.
-Nota: A memória da chave é apagada quando você faz logout.
+Permite que você use uma "chave inteligente" para bloquear ou desbloquear as portas.<br>
+A chave reconhece qualquer veículo que você comprou.<br>
+Você também pode registrar outro carro que você dirige em sua chave.<br>
+Nota: A memória da chave é apagada quando você faz logout.<br>
 
 Itens
 -Chave inteligente
